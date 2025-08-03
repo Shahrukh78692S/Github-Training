@@ -4,5 +4,6 @@ public class WFM_Notification {
         System.out.println("I have learnt how to add URL");
         System.out.println("I have leart how to config user name and password");
         System.out.println("I have learnt after that how to commit and push");
+        System.out.println("Check if pushed in Github");
     }
 }
